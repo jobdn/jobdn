@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pisarev Danila</h1>
+<h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">An ambitious frontend developer</h3>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jobdn&show_icons=true&locale=en" alt="jobdn" />
