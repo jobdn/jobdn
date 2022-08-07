@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">An ambitious frontend developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobdn&show_icons=true&locale=en&layout=compact" alt="jobdn" /></p>
+<p width="47%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobdn&show_icons=true&locale=en&layout=compact" alt="jobdn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobdn&show_icons=true&locale=en" alt="jobdn" /></p>
+<p width="47%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobdn&show_icons=true&locale=en" alt="jobdn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobdn&" alt="jobdn" /></p>
 
