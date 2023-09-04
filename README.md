@@ -34,5 +34,3 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **jobdan@bk.ru**
-
-- 📄 Know about my experiences [https://rxresu.me/danstuding/pisarev-danila-frontend-dev](https://rxresu.me/danstuding/pisarev-danila-frontend-dev)
